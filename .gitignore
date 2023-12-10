@@ -1,0 +1,3 @@
+outdir
+tacotron2_statedict.pt
+waveglow_256channels_universal_v5.pt

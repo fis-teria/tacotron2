@@ -1,0 +1,1 @@
+docker run --gpus all -v /mnt/e/workspace/ML/TTS/dataset/work_tacotron2/tacotron2:/content -u jupyter -p 10000:8888 -it local/nvidia_tf1_tts1_colab:1.1

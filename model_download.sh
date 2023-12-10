@@ -1,0 +1,2 @@
+bash tacotron2_statedict_download.sh
+bash waveglow_256channels_universal_v5.sh
