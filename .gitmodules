@@ -1,4 +1,9 @@
 [submodule "waveglow"]
 	path = waveglow
-	url = https://github.com/NVIDIA/waveglow
+	url = https://github.com/fis-teria/waveglow.git
+	branch = master
+	
+[submodule "apex"]
+	path = apex
+	url = https://github.com/fis-teria/apex.git
 	branch = master
