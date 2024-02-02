@@ -1,8 +1,14 @@
 outdir/
+outdir2/
+outdir3/
 tacotron2_statedict.pt
 waveglow_256channels_universal_v5.pt
 filelists/meian/
+wav_/
 wav/
 archive/
 jsut_ver1.1/
 tools/
+tsukuyomichan_copas/
+waveglow/
+loaddir/

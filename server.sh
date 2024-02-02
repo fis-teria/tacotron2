@@ -1,0 +1,1 @@
+sudo docker run --gpus all --rm -v $(pwd):/content -p 8888:8888 -p 6006:6006 -p 4040:4040 -u jupyter -it $1 /bin/sh -c "jupyter notebook --NotebookApp.allow_origin='' --allow-root --port 8888 --NotebookApp.port_retries=0 --ip 0.0.0.0"

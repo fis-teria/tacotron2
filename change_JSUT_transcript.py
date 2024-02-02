@@ -2,8 +2,8 @@ import os
 import pyopenjtalk
 
 # transcript.txtの変換
-in_path = 'filelists/transcript_utf8.txt'
-out_path = 'filelists/transcript.txt'
+in_path = 'filelists/transcript_utf8_tsukuyomichan.txt'
+out_path = 'filelists/transcript_tsukuyomichan.txt'
 output = []
 with open(in_path) as f:
     lines = f.readlines()
